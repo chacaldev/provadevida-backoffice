@@ -26,3 +26,11 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+table.user td {
+  text-align: right;
+}
+
+table.user{
+align-content: center;
+}
